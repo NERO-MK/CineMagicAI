@@ -1,0 +1,1 @@
+CineMagicAI V1 structure
